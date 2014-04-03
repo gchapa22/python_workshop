@@ -1,4 +1,3 @@
-
 # OUTPUT
 # ---------------
 print "Spam"
